@@ -131,7 +131,7 @@ upsert, similarity search, and deletion by source ID.
 **Installation:**
 
 ```bash
-git clone https://github.com/sudaangi/enterprise-rag-production
+git clone https://github.com/sangirash/enterprise-rag-production
 cd enterprise-rag-production
 cp .env.example .env
 # Edit .env and set OPENAI_API_KEY
