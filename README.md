@@ -1,4 +1,4 @@
-# enterprise-rag-production
+# Production grade RAG pipeline for Enterprise
 
 A production-grade Retrieval-Augmented Generation pipeline reference implementation in Python 3.11+.
 
